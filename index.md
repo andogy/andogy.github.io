@@ -1,4 +1,5 @@
-# QRSpeed 变量大全<p style='font-size:15px'>安♡玖特别版</p>
+# QRSpeed 变量大全
+<p style='font-size:15px'>安♡玖特别版</p>
 
 作者：<img src="https://icean.moe/?req=anavat.png" style="height:24px;" />An!♡<img src="https://icean.moe/?req=annieavat.png" style="height:24px;" />阿玖
 
